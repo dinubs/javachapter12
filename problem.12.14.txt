@@ -1,0 +1,1 @@
+(Process scores in a text file) Suppose that a text file contains an unspecified number of scores seperated by blanks. write a program that promps the user to enter the file, reads the scores from the file, and displays their total and average.
